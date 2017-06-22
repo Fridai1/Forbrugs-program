@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Forbrugs_Program.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Forbrugs_Program"
+    RequestedTheme="Light">
+
+</Application>
